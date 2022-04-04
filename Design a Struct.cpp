@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    // Create an object, set all the attributes to values of your choosing,
+    // Create an object, set all the attributes to values entered by the user
     // and print all of the attributes neatly formatted
 
 
